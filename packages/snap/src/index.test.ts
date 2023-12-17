@@ -18,9 +18,9 @@ describe('onRpcRequest', () => {
       expect(ui).toRender(
         panel([
           text(`Hello, **${origin}**!`),
-          text('This custom confirmation is just for display purposes.'),
+          text('confirm that you want to send a message to find a guide'),
           text(
-            'But you can edit the snap source code to make it do something, if you want to!',
+            'We check with you before sending any messages out.',
           ),
         ]),
       );

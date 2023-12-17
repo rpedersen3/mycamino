@@ -1,13 +1,13 @@
 {
   "version": "0.1.0",
-  "description": "An example Snap written in TypeScript.",
-  "proposedName": "TypeScript Example",
+  "description": "My path to salvation",
+  "proposedName": "MyCamino",
   "repository": {
     "type": "git",
     "url": "https://github.com/MetaMask/template-snap-monorepo.git"
   },
   "source": {
-    "shasum": "/bL+Jugx/3+81D1r/shUaYOQP5VUmoop6hcaY+Q33vM=",
+    "shasum": "5nE/ZREfK7F3KV4y4nR9sE//6PZi5kk/O3CXCrvbIZU=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
